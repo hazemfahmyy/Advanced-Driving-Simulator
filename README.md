@@ -2,7 +2,7 @@
 
 ## Introduction
 
-ADS is a simulator tool built in Mathematica for autonomous driving using complex mathematical modelling for lane-keeping and obstacle avoidance at evaluated at low-speed (urban driving) and high-speed (high-way driving) scenarios
+ADS is a simulator tool built in Mathematica for autonomous driving using complex mathematical modelling for lane-keeping and obstacle avoidance at evaluated at urban and highway driving scenarios
 
 This package provides the implementation of our simulators and the generated results appearing in ["Vehicle Risk Assessment and Control for Lane-Keeping and Collision Avoidance at Low-Speed and High-Speed Scenarios"](https://ieeexplore.ieee.org/document/8295146) by Hazem Fahmy, Mohamed A. Abd El Ghany and Gerd Baumann.
 
