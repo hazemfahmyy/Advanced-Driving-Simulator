@@ -22,11 +22,14 @@ A tested scenario of a vehicle approaching a rough obstacle, ε = 0.5,on the roa
 
 If you use our work, please cite ADS in your publications. Here is an example BibTeX entry:
 ```
-@ARTICLE{8295146,  author={Fahmy, Hazem and Ghany, Mohamed A. Abd El and Baumann, Gerd},  
+@ARTICLE{8295146,  
+author={Fahmy, Hazem and Ghany, Mohamed A. Abd El and Baumann, Gerd},  
 journal={IEEE Transactions on Vehicular Technology},   
 title={Vehicle Risk Assessment and Control for Lane-Keeping and Collision Avoidance at Low-Speed and High-Speed Scenarios},   
-year={2018},  volume={67},  
+year={2018},  
+volume={67},  
 number={6},  
 pages={4806-4818},  
-doi={10.1109/TVT.2018.2807796}}
+doi={10.1109/TVT.2018.2807796}
+}
 ```
