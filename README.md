@@ -13,7 +13,7 @@ This work examines a symbolic numerical approach to optimize a vehicle's track f
 ## Results:
 
 A tested scenario of a vehicle approaching a rough obstacle, ε = 0.5,on the road where the optimization and control algorithm succeeded to followthe ideal road and avoid the presented rough obstacle simultaneously:
-![img1](./Scenarios and data/CA_LK.png)
+![img1](./Scenarios_Data/CA_LK.png)
 
 
 ## Reference:
